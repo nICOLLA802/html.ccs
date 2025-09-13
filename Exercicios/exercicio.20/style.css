@@ -1,0 +1,12 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+    text-align: center;
+
+}
+
+div#1:hover{
+    background-color: red;
+}

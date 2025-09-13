@@ -1,0 +1,77 @@
+@font-face {
+    font-family:idroid ;
+    src: url(fontes/idroid.otf);
+}
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c0eb7e;
+}
+header{
+    background-image: linear-gradient(to top ,#3f6305d9, #68d171);
+color: white;
+padding: 10px 0;
+text-align: center;
+border: solid black 2px;
+}
+nav{
+  
+    text-align: justify;
+    color: white;
+    background-repeat: repeat;
+
+    
+}
+main{
+    background-color:white;
+    border: solid black 4px;
+    margin: 0px 40px 0px 40px;
+    padding: 20px;
+
+    min-height: 1000px;
+    min-width: 500px;
+    
+}
+div{
+    text-align: center;
+    background-color: #17511c;
+}
+article{
+    background-color: #f9f9f9;
+    border-radius: 16px;
+    text-align: justify;
+    margin: 20px;
+    padding: 20px
+}
+
+#sabermais{
+    background-color: green;
+    border-radius: 2px;
+    margin:auto;
+    color: white;
+}
+footer{
+    background-color: rgb(3, 46, 3);
+    border-radius: 3px;
+}
+#aprendermais{
+    background-color: #8296d7;
+
+}
+#conclusão{
+    background-color:white;
+    text-align: center;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h2{
+   font-family: idroid; 
+   color: #17511c;
+   background-color: #5bd265;
+}
+#titulo{
+  font-family: idroid; 
+   color: #17511c;  
+}

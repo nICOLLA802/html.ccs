@@ -1,0 +1,111 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+*{
+  
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+
+}
+body{
+   
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+
+}
+#div1{
+    text-align: justify;
+    margin: auto;
+    font-size: 70px;    
+    
+
+}
+#img1{
+    background-image: url(imagens/background001.jpg);
+   background-attachment: fixed;
+    background-size: cover;
+ text-align: justify;
+    margin: auto;
+    font-size: 20px;    
+    line-height: 30px;
+    height: 220px;
+   
+   
+  
+}
+#div2{
+    text-align: justify;
+    font-size: 20px;   
+    line-height: 30px; 
+    margin: 20px;
+    border-radius: 20px;
+    padding: auto;
+    
+}
+#div3{
+    text-align: justify;
+    margin: 20px;
+    font-size: 20px;    
+    line-height: 30px;
+    border-radius: 20px;
+    padding: auto;
+}
+    #div4{
+    text-align: justify;
+    margin: 20px;
+    font-size: 20px;    
+    line-height: 30px;
+    border-radius: 20px;
+    padding: auto;
+}
+    #img2{
+    background-image: url(imagens/background002.jpg);
+    background-attachment: fixed;
+    
+ text-align: justify;
+    margin: auto;
+    font-size: 20px;    
+    line-height: 30px;
+    height: 220px;
+}
+    #div5{
+    text-align: justify;
+    margin: 20px;
+    font-size: 20px;    
+    line-height: 30px;
+    border-radius: 20px;
+    padding: auto;
+}
+    #div6{
+    text-align: justify;
+    margin: 20px;
+    font-size: 20px;    
+    line-height: 30px;
+    border-radius: 20px;
+    padding: auto;
+}
+    #div7{
+    text-align: justify;
+    margin: 20px;
+    font-size: 20px;    
+    line-height: 30px;
+    border-radius: 20px;
+    padding: auto;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+
+     
+

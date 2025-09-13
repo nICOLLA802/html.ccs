@@ -1,0 +1,38 @@
+@charset "utf-8";
+body{
+    background-image: linear-gradient(to top, white , aquamarine);
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+}
+h1{
+    color: rgb(27, 27, 149);
+}
+h2{
+    color: rgb(27, 27, 149);
+}
+#Principal
+{
+    color:rgb(75, 122, 106);
+    text-align: CENTER;
+    background-color: rgb(16, 16, 240);
+}
+.Basico
+{
+    color: rgb(255, 0, 0);
+    text-align: LEFT;
+    background-color: rgb(255, 255, 255);
+}
+.intermediario
+{
+    color: rgb(255, 140, 0);
+    text-align: CENTER;
+    background-color: rgb(255, 255, 255);
+}
+.avançado
+{
+    color: rgb(0, 128, 0);
+    text-align: RIGHT;
+    background-color: rgb(255, 255, 255);
+}
+
