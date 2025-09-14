@@ -38,6 +38,9 @@ section{
     font-size: 2vh;
     
 }
+section > p{
+    padding-bottom: 2em;
+}
 
 section.normal{
     margin: 2em;
@@ -62,7 +65,20 @@ section.imagem > p{
     line-height: 1.8em;
 }
 
-
+section#img01{
+    background-image: url(imagens/background001.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+section#img02{
+    background-image: url(imagens/background002.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 footer{
     background-color: black;
