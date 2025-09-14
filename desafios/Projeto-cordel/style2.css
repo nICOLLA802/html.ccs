@@ -34,30 +34,36 @@ a:hover{
 section{
     padding-top: 10vh;
     padding-bottom: 10vh;
-    line-height: 2em;
+    line-height: 1.8em;
+    font-size: 2vh;
     
 }
 
 section.normal{
     margin: 2em;
     font-family: 'Lucida Handwriting', cursive;
-    font-size: 1.2em;
-    line-height: 1.6em;
+    line-height: 1.8em;
     text-align: justify;
 }
 section.imagem{
     font-family: 'Lucida Handwriting', cursive;;
+   color: white;
     text-align: justify;
-    margin: 2em;
-    font-size: 1.2em;
-    line-height: 1.6em;
-    color: white;
+    background-color: rgba(0, 0, 0, 0.144);
+
+   
 
 }
 section.imagem > p{
-    background-color: rgba(0, 0, 0, 0.347);
+    background-color: rgba(0, 0, 0, 0.509);
     width: 300px ;
+    margin: 1.5em;
+    font-size: 1.1em;
+    line-height: 1.8em;
 }
+
+
+
 footer{
     background-color: black;
     color: white;
