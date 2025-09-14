@@ -88,4 +88,9 @@ footer{
     position: relative;
     bottom: 0;
     width: 100%;
+
+}
+footer > a{
+    font-family: 'Lucida Handwriting', cursive;
+
 }
